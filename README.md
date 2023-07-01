@@ -3,7 +3,7 @@
 
 
 ## About Laravel
-
+By Rangga Prabaswara
 Projek Sistem Informasi Climays untuk membantu clinic dalam pencatatan pasien.
 
 
