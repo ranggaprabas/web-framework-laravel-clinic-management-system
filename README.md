@@ -19,7 +19,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ![preview](https://i.postimg.cc/SRwrh7bV/image.png)
 ![preview](https://i.postimg.cc/VNYFmk2y/image-7.png)
 ![preview](https://i.postimg.cc/7PcX0DJ7/image-4.png)
-![preview](https://i.postimg.cc/W4Xw3PPd/image-5.png)
+![preview](https://i.postimg.cc/GmrcLWKw/pdf.png)
 
 
 ## Multirole User (Admin, Pasien, Dokter)
