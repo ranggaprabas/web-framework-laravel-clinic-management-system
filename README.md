@@ -15,7 +15,7 @@ Projek Sistem Informasi Klinik untuk membantu klinik dalam pencatatan pasien.
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-![preview](https://postimg.cc/9wYTP9Mq][img]https://i.postimg.cc/9wYTP9Mq/image.png[/img])
+![preview](https://i.postimg.cc/SRwrh7bV/image.png)
 
 ## Multirole User (Admin, Pasien, Dokter)
 # Admin
